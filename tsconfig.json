@@ -1,5 +1,6 @@
 {
     "compilerOptions": {
-        "experimentalAsyncFunctions": false
+        "experimentalAsyncFunctions": false,
+        "newLine": "CRLF"
     }
 }
