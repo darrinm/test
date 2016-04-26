@@ -1,4 +1,4 @@
 import {Foo} from "foo";
 
-class Bar {
+class Bar extends Foo {
 }
